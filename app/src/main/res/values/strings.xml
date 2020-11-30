@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrackerFinder Demo</string>
+    <string name="unbind_success">unbind success</string>
+</resources>
